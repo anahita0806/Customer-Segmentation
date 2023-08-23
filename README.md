@@ -1,1 +1,2 @@
 # Customer-Segmentation
+Led a data-driven customer segmentation initiative employing machine learning techniques to group clients based on shared attributes. Utilized Python's K-Means clustering to identify distinct segments, enabling personalized marketing strategies. Presented findings through python libraries such as seaborn and matplotlib visualizations, facilitating informed business decisions.
